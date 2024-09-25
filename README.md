@@ -87,7 +87,7 @@ Throughout my time, I was responsible for every aspect of the system, from its i
 
 ## Results
 
-- The bot generated approximately **$300,000 in **gross profit** by the time I transitioned to a new role.
+- The bot generated approximately **$300,000 in gross profit** by the time I transitioned to a new role.
 - It successfully adapted to dynamic market conditions (e.g., storms, fuel price fluctuations, supply chain disruptions), ensuring profitable bids with calculated risk margins.
 - **Tableau dashboards** provided real-time performance monitoring for stakeholders, offering insights into the bot’s effectiveness.
 
