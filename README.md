@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project involves the development of an automated bot that scrapes, analyzes, and executes bids on logistics spot market shipments, optimizing for profitability based on dynamic market conditions. I built, maintained, and continuously improved this system from the ground up during my entire tenure, integrating data scraping, Monte Carlo simulation, and a machine learning Random Forest model to provide strategic, risk-adjusted bids. The bot runs 24/5 and monitors market conditions in real-time, making continuous improvements to its bidding strategy.
+This project involves the creation and development of an automated bot that scrapes, analyzes, and executes bids on logistics spot market shipments, optimizing for profitability based on dynamic market conditions. I built, maintained, and continuously improved this system from the ground up during my entire tenure, integrating data scraping, Monte Carlo simulation, and a machine learning Random Forest model to provide strategic, risk-adjusted bids. The bot runs 24/5 and monitors market conditions in real-time, making continuous improvements to its bidding strategy.
+
+**Note: This is a project I created from bottom up, but no longer have access to the code**
 
 ---
 
